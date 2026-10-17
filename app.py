@@ -44,7 +44,7 @@ CONFIG_JSON = {
       "region": "Far East (FE)",
       "endpoint": "https://sellingpartnerapi-fe.amazon.com",
       "aws_region": "us-west-2",
-      "refresh_token": "Atzr|IwEBIEMWwCh_GivH8L_felQ857L8hRUiE0dvK79QyAIxhmYHRdNf0mKD2Tn2T6M5RM_eZdDEWkBXEgRDxR4sKLOn1GmsDMNnbTXRhi7vp007_9H0HDF24c_RuN6iv3yxo7Mp9Jj2liqCGxfjm1Jy5ftO-3MqLriNzzAW-YJ_ud7KyvXjPmXSSf4k4SR1YakLG049iuvrwpuDIFVF0jnRgfPC1TgvpQj1U65XDk6JJiTFVCOBEcFqZ0I0W_j3ciyNscS72dMG7C9xyJIXMhIKPUxzkPqohSaBLtiEHsv2D9qkhCxRV8oGsbO5y5bm6b15iiJL0dTg-tEMcGi_-8fDEIVfGjtC",
+      "refresh_token": "Atzr|IwEBIA2olqzHv5zUMAwuOUPolxr13XLNVG-2IMJGsYBhOoXHt-Dab0r-jjOFHLgTM05yxaCr5tVwFYPYzVootmqNf0GUQjon3S0y89Etooh4uKMrcUsp79iQl6utEqjV3qQuJ9vMOQxbOLaAFEIY_5UF8502SR59VczgwDygTwqHNyF1u4bv6NRIbqnrUuYAM5F8sAMmkZkUFhhYcgstgW6FjSvM4Kh0u_e9pf8esPSP73UbKW0cTFMiMLooxRCb8efS21M7PrmtGK54PUAIWrDLV_jSf5NdGTXfVIlHxXKDD80yby57H9fsoqZhAuFHsSt4m9ZwIhdhWcZvWqHM4OC8RUex",
       "marketplaces": {
         "Australia": "A39IBJ37TRP1C6"
       }
@@ -54,7 +54,7 @@ CONFIG_JSON = {
       "region": "Europe (EU)",
       "endpoint": "https://sellingpartnerapi-eu.amazon.com",
       "aws_region": "eu-west-1",
-      "refresh_token": "Atzr|IwEBIFq40drbKdAbotvgQsqIFoXtv9fA6qz_rUnfuiMwfL8ZCb8PsGqG1ddt4NjiAOyVBXcXpDACZpX7qMmvW1WsDiO2Bhu35Z5wafXhhFlIqlnFgPGqGaMDZik2MNS0Ddy5doUZ2jPggyLJ5dN1eMYL3s0KUyWLP4--TO4RciE9B-RPRgeZ8AyJYyPy5FezybEtQu2NolWc26didKweovoa3k14F0a_SJA2tSCefFW-fDjx-W8SlCcoutR68AJbuQNaoiDkgSRLaru99w6zQqE2oUSa9dWKPTZFAD8G7Xh7mmSkvQWG4jGim0-PPwsikZvgIl19RU1S6jaTpY1T0bTUriQt",
+      "refresh_token": "Atzr|IwEBIIaOyf3QEB4Fs1ol5SQsIX988dihHd7hxs3_8c0q_W9cH6vC5DZe68zrAYQzX0mZc6mGikK-vctKOpO-y5J4fpt0__REC6hETwFutjstrLHOWMjzTd2duLCoQR-AOQCO_JssQxg1jjST0EnkMKf6U-DMniSF3OEk14hgA3vy8nQ6nXdB9rSFoTlE8pAyaqkaZ2EHiz7sah00nl32ddxvokQmBEz0vcGtXMppwCPp2EYTZ2klRMvQgNecq5gaQu1QcaSpdgkS-gq5Zxeh8aw81HPT0LZJge39uY3lXJx8xNC8brKUVLfj6C0H81wdukZi5RhJhOEZ1PZVEFjGi792ufjF",
       "marketplaces": {
         "UAE": "A2VIGQ35RCS4UG"
       }
@@ -64,7 +64,7 @@ CONFIG_JSON = {
       "region": "Europe (EU)",
       "endpoint": "https://sellingpartnerapi-eu.amazon.com",
       "aws_region": "eu-west-1",
-      "refresh_token": "Atzr|IwEBIDJhNGj8yHTEkIM7kjrfH7U7Py-U9cCZPdiMl4H_mWgT9BFcN93tquTj3b9-iNkIIN3YFkDXyVUUIGtOJl3jZK99bYhcPz6egrLHKX6fmcujhZ8z2b5K3Q7J8ArT_0xmJTHN_VsWy2B3vTDjhYQI8aNKRG4GUSzt4gKkCHcsazfRuJmbZkRseF4eIiVFrfZ-bnS-w5sFMIMRgymlp9Od6pE9tjXLMdfIGig3lQzWSmDKYRMNDFlL2MDl47puf0L2oyBd6yw1kehVHQMSQENVcjV8tXiKgDJwO7rshYP6z7WQWUPcJFSHtip8Vb_SNji70i_FThUmv7XoOPxnwxrjYPY4",
+      "refresh_token": "Atzr|IwEBIAReA9UtuT_7qAWPnQQXzxk2UgKwPVi-OkgKKtSPnFiTDJBb0lqv9VDagVPce49ufxGBDfico4ZHWmFWlLa0okQaaQxOy5on3-O5Nlzq_AYYp4IHNAU3nPML0nk1jlUrrUUK4vCrGrhRJgLMoIJMqetpbWO01VVhp1dBj2ou802mcK_GMUSFzI-nngT471XaY6UHiv6uYbDSPuPHOB152ygoDnc5iayr-8jmypP4IsL0s3d0wQmQqixrs31xM52Xwwe0bZE6V5sCXhXsuY2S_ldFgDE9Il9YzhA0MzoNZwg4Ki181PPPP1KDGqEb3wFTdrl382hnQDaQgRAICEFXgYr-",
       "marketplaces": {
         "Saudi Arabia": "A17E79C6D8DWNP"
       }
@@ -74,7 +74,7 @@ CONFIG_JSON = {
       "region": "Europe (EU - Pan-EU Group)",
       "endpoint": "https://sellingpartnerapi-eu.amazon.com",
       "aws_region": "eu-west-1",
-      "refresh_token": "Atzr|IwEBIEPGn8_nHhCWKEvLJpkcyuwHMR2M1LXqVv65OxnEMpOsOo_zZqaUA1sH4s3iVc9Y9PnUBD1dSdo6UxmtR8p92JRweDokqC7StlR_WmJxMAPJ-tI3VS02wI7J1FnTHWRenHNbnZ2IfxZKAvaU9YxKfwuixq-nWRltqnol9RKnEUYT3cM_8C7mEmuWbdeb475xbCXiNy7r9o8cJ6WU9qgf5i0suMoqCz07KFuyQfMjrbwmGrztK0S8s5TJPwIERwGhVF0AbtoaXb0VDFDsi3-o-3I-A2Il-mijW7pjsZmz6uD8N55kM7KqIT5EM-KK1ucPgNAMNeuvlza0S8M6Ea1CsLXX",
+      "refresh_token": "Atzr|IwEBILQg1IQSSrtJ_KeSHGFZwUjZnz7gx0xHCCQUjKd4qC7Fz0Je8C1bCoRE89BOo26NnU0b0VFzosouFxHHSrNunMiK4-f4_7hmw3qvrjKBizRAhFnf3bcH_kus4yEW2tVnW9ROeak6F9WHyeTkYaFaqH5OGGCnovt8FgpV1w33_-bKcJoaIK01JB-ggpHPCBq2xnOTVrJQvB8waWOPc4EZVLuRGvVoZwWuI0Dw6E9ZQ8KqsNdEU1RE0RlP5wijdw_hw1vSDFn9KbPkLKMdSMpa3Quv9E81wCtSYFCpYzy6kkGacjVA8a4P6wreI-hva-Z8sakUh-VsdPiGeHARivS8dNxA",
       "marketplaces": {
         "United Kingdom": "A1F83G8C2ARO7P",
         "Germany": "A1PA6795UKMFR9",
@@ -93,7 +93,7 @@ CONFIG_JSON = {
       "region": "North America (NA)",
       "endpoint": "https://sellingpartnerapi-na.amazon.com",
       "aws_region": "us-east-1",
-      "refresh_token": "Atzr|IwEBIM5gyn0eF29KHBDaZThzkJ9JA0jnfiRuQBgq6OmC2bgGWuzYmauKALiZu7sz2t6GaFxrKvf-LHsk6LBN7FBOCI9u1pR2TEoLiXSjOgnjVdIk6Kihamle8sIX1mKUxCPoDVhzCrW5k1ZRwmrRkYUoPFU2DkPU50Hui7IRhv-SO-7SSOy-GVhNEVSWddfyhB53DTQKgByvME3zovDKmT1oboYFc96MDQC6Tps8vXPKg4WzzYNSnUluLW_X35ulx67k1SmF2KT-Fikgfuo0iI_jrwwwDFzwL0rUqhQ_Fk0zbdPilgA83L65H9Zp2rgfWEMZDz1o3TKiLaXBRBPYYs4aO_GE",
+      "refresh_token": "Atzr|IwEBIOlvdDZl0dAs5q6y0OzMSSZhbKuOQ5YqPryHGUviFSlDuF6HizR9M4ECbcTsdFRMRqzWq8Pq3wNQCqHndZyFLgitGueFQ_f5J1FCkvfRhCGWU3rawc5Bm0JWP6x0PlxgyXaHk211GLFoY_IOB3Xsia9U3VuqRcIDOmnAqexF7ZbPVaiPZ3X9iyO0cBwsbghgyV_-ULMwGxKBbdWoiIye3qCLU11jGiLrf-TeqGjJtbTkieNeIayCvisLoYCpKyKCU8RLZkvMxs3wJ_1SQU6GPUipvyd6FaP6FJ0DKpzX0qdY2efsCkDwEbAASeO3uamFsiVTRtd-gnC6hWQQVJZnHK0R",
       "marketplaces": {
         "United States": "ATVPDKIKX0DER",
         "Canada": "A2EUQ1WTGCTBG2",
