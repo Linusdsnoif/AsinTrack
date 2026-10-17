@@ -1,0 +1,8 @@
+flask
+pandas
+requests
+beautifulsoup4
+openpyxl
+playwright
+nest_asyncio
+pyvirtualdisplay

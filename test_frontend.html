@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amazon ASIN Scraper Tester</title>
+</head>
+<body style="font-family: Arial, sans-serif; padding: 50px;">
+    <h2>Upload ASIN List</h2>
+    <!-- This form points directly to your local Flask server -->
+    <form action="http://127.0.0.1:5001/process-excel" method="POST" enctype="multipart/form-data">
+        
+        <label>Excel File:</label><br>
+        <input type="file" name="file" accept=".xlsx" required><br><br>
+
+        <label>Account Name:</label><br>
+        <input type="text" name="account_name" value="LUFFCABO" required><br><br>
+
+        <label>Marketplace Name:</label><br>
+        <input type="text" name="marketplace_name" value="United States" required><br><br>
+
+        <button type="submit" style="padding: 10px 20px; cursor: pointer;">Run Scraper</button>
+    </form>
+</body>
+</html>
