@@ -33,8 +33,8 @@ app = Flask(__name__)
 # ==========================================
 # NOTE: move these to environment variables (os.environ) before sharing/deploying
 # this file anywhere. Hardcoded LWA secrets + refresh tokens are a real exposure risk.
-CLIENT_SECRET = os.environ.get("SP_API_CLIENT_SECRET", "amzn1.oa2-cs.v1.a8f04cdd3595029ad594e3535c0d0a59beb8c4500cd6bac96458f7b33ec5d0b6")
-CLIENT_ID = os.environ.get("SP_API_CLIENT_ID", "amzn1.application-oa2-client.5bd02b451f8d477693c5b99f64686ca7")
+CLIENT_SECRET = os.environ.get("SP_API_CLIENT_SECRET")
+CLIENT_ID = os.environ.get("SP_API_CLIENT_ID")
 LWA_URL = "https://api.amazon.com/auth/o2/token"
 
 CONFIG_JSON = {
